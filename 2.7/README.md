@@ -8,9 +8,11 @@
 ```
 ```
 <dependency>
-	<groupId>org.jboss.weld</groupId>
-	<artifactId>weld-api</artifactId>
-	<version>2.3.Final</version>
+	<groupId>org.jboss.weld.se</groupId>
+	<artifactId>weld-se</artifactId>
+	<version>2.4.8.Final</version>
+	<scope>test</scope>
+	<type>jar</type>
 </dependency>
 ```
 
